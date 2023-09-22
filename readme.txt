@@ -13,4 +13,5 @@ Shortcut Commands:
 		'p' to start the game
 		'e' for an easy board, 'm' for a medium board, 'h' for a hard board, 'x' for an 'expert' board, and 'v' for an evil board
 		
-		The app can be fully played both with only the keyboard and only the mouse. Further shortcuts can be found in the Help Screen by 		pressing z once the playing screen is launched.
+	The app can be fully played both with only the keyboard and only the mouse. Further shortcuts can be found in the Help Screen by pressing z once the playing 			screen is launched.
+There is a short video demonstrating the app in video.txt.
